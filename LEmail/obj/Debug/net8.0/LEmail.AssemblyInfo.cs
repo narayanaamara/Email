@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LEmail")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fccce357940e2fd482c322c148a810f8cf80cdff")]
 [assembly: System.Reflection.AssemblyProductAttribute("LEmail")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LEmail")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
